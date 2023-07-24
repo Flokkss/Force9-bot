@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  
+  }
+
+.column{
+  columns: 5px 10px;
+  }
+
+.btn{
+  padding: 10px 10px;
+  width: 100px;
+}
